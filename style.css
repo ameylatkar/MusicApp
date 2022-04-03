@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 1.8rem;
+    color: white;
+    padding: 30px, 0;
+}
+
+main {
+    width: 90%;
+    height: 550px;
+    margin: auto;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+div {
+    width: 30%;
+    height: 165px;
+    box-shadow: 2px 2px 5px grey;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.a {
+    background-image: url('images/shivchtrapati.jfif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.b {
+    background-image: url('images/farzand.jfif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.c {
+    background-image: url('images/fatteshikast.jfif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.d {
+    background-image: url('images/mishivajiraje.jfif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.d {
+    background-image: url('images/shivsena.jfif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.e {
+    background-image: url('images/tanhaji.jfif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.f {
+    background-image: url('images/balkadu.jfif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.g {
+    background-image: url('images/kashinath.jfif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.h {
+    background-image: url('images/thakre.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.i {
+    background-image: url('images/dhoni.jfif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
